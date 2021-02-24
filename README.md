@@ -1,7 +1,7 @@
 # Warshop: a self-taughting project
 
 ## Background
-This project was born as an idea for the vicissitudes that reached me at the date of writing (24/02/21 ) : <br> 
+This project was born as an idea by some vicissitudes that reached me at the date of writing (24/02/21 ) : <br> 
 - a customer dropped my offer, 
 - i have 2 web-development cadets to train 
 - Tech skills and  to build up
