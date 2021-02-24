@@ -4,7 +4,7 @@
 This project was born as an idea by some vicissitudes that reached me at the date of writing (24/02/21 ) : <br> 
 - a customer dropped my offer, 
 - i have 2 web-development cadets to train 
-- Tech skills and  to build up
+- a Tech skillset to build up and showcase them
 - Doing some R&D for expand my IT consulting domains firepower  
 
 ## Overview
